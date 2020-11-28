@@ -1,0 +1,6 @@
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\bin\Debug\WcfUdpLib.dll.config
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\bin\Debug\WcfUdpLib.dll
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\bin\Debug\WcfUdpLib.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\obj\Debug\WcfUdpLib.csproj.CoreCompileInputs.cache
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\obj\Debug\WcfUdpLib.dll
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfUdpLib\obj\Debug\WcfUdpLib.pdb

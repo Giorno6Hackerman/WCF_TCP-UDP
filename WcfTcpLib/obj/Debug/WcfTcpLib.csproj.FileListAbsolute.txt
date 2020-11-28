@@ -1,0 +1,7 @@
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\bin\Debug\WcfTcpLib.dll.config
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\bin\Debug\WcfTcpLib.dll
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\bin\Debug\WcfTcpLib.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\obj\Debug\WcfTcpLib.csprojAssemblyReference.cache
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\obj\Debug\WcfTcpLib.csproj.CoreCompileInputs.cache
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\obj\Debug\WcfTcpLib.dll
+D:\prog\4 sem\KSIS\Labs\Lab_8\WcfTcpLib\WcfTcpLib\obj\Debug\WcfTcpLib.pdb
